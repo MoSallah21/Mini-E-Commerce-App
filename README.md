@@ -93,7 +93,7 @@ Core → Utilities, error handling (Result class), dependency injection
 ## 🎥 Demo Video
 
 Check out the demo of the app on YouTube:  
-[![Mini E-Commerce App Demo](https://www.youtube.com/shorts/qB81oAx4Mlg)
+[![Mini E-Commerce App Demo](https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F22.jpg?alt=media&token=9f13ad6b-090b-4212-80c5-c7a174159e2e)](https://www.youtube.com/shorts/qB81oAx4Mlg)
 
 ## ⚡ Getting Started
 
