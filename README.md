@@ -74,24 +74,22 @@ Core → Utilities, error handling (Result class), dependency injection
 
 <div align="center">
 
-![Home Screen](https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F1.jpg?alt=media&token=86a1cd9f-449d-4c6d-8adf-4cd666a6ab73)  
+<img src="https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F1.jpg?alt=media&token=86a1cd9f-449d-4c6d-8adf-4cd666a6ab73" width="300px" alt="Home Screen">  
 *Home Screen*
 
-![Product Details](https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F2.jpg?alt=media&token=fb47a744-a25f-4a25-a0be-46ceabc24878)  
+<img src="https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F2.jpg?alt=media&token=fb47a744-a25f-4a25-a0be-46ceabc24878" width="300px" alt="Product Details">  
 *Product Details*
 
-![Cart](https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F3.jpg?alt=media&token=c8271ded-cd4a-48fb-a53c-fbe4342fb661)  
+<img src="https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F3.jpg?alt=media&token=c8271ded-cd4a-48fb-a53c-fbe4342fb661" width="300px" alt="Cart">  
 *Cart*
 
-![User Profile](https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F9.jpg?alt=media&token=9250f0e1-c679-4ceb-b217-ef7e70532830)  
+<img src="https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F9.jpg?alt=media&token=9250f0e1-c679-4ceb-b217-ef7e70532830" width="300px" alt="User Profile">  
 *User Profile*
 
-![Register](https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F5.jpg?alt=media&token=376ca7f5-d5fc-4f52-bc9f-fdc6e318698e)  
+<img src="https://firebasestorage.googleapis.com/v0/b/fluuter-learning.appspot.com/o/app%2F5.jpg?alt=media&token=376ca7f5-d5fc-4f52-bc9f-fdc6e318698e" width="300px" alt="Register">  
 *Register*
 
 </div>
-
----
 
 ## ⚡ Getting Started
 
