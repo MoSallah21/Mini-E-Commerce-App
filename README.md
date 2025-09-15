@@ -5,47 +5,47 @@ A modern, full-featured Flutter e-commerce app built with clean architecture, Fi
 
 -User Authentication
 
-  -Firebase Authentication
+   -Firebase Authentication
 
-  -Google Sign-In
+   -Google Sign-In
 
-  -Email & Password authentication
+   -Email & Password authentication
 
 -Product Listing
 
-  -Products fetched from Firestore
+   -Products fetched from Firestore
 
-  -Cached images using cached_network_image
+   -Cached images using cached_network_image
 
 -Product Details
 
-  -Dedicated product details page
+   -Dedicated product details page
 
-  -Add products to cart with quantity selection
+   -Add products to cart with quantity selection
 
 -Cart Management
 
-  -Add, update, and remove products
+   -Add, update, and remove products
 
-  -Persistent cart state
+   -Persistent cart state
 
 -User Profile
 
-  -View & edit profile info
+   -View & edit profile info
 
-  -Data stored in Firestore
+   -Data stored in Firestore
 
 -Push Notifications
 
-  -Firebase Cloud Messaging
+   -Firebase Cloud Messaging
 
-  -Local notifications for foreground messages
+   -Local notifications for foreground messages
 
 -Payments
 
-  -Stripe integration
+   -Stripe integration
 
-  -Secure checkout & payment flow
+   -Secure checkout & payment flow
 
 🎁 Bonus Features
 
