@@ -33,7 +33,6 @@ A modern, full-featured Flutter e-commerce app built with **Clean Architecture**
 ### 🎁 Bonus Features
 - Product search with instant filtering
 - Localization support with intl (implemented but JSON dictionary for strings not yet provided)
-- Google Maps integration (user location + nearby stores)
 - Profile picture picker & cropper
 - In-app reviews with `in_app_review`
 
